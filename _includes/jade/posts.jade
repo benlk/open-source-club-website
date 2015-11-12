@@ -8,6 +8,9 @@
     .category-title
       h1 {{ page.category }}
     {% for post in paginator.posts %}
+    
+    {% assign post_word_count = post.content | size %}
+    
     ul
       li
         {% if post.categories contains 'volunteering' or post.categories contains 'events' %}
@@ -17,10 +20,21 @@
         h2
           a(href='{{ site.baseurl }}{{ post.url }}') {{ post.title }}
         {% endif %}
+        
         span.date posted: {{ post.date | date: "%m-%d-%Y" }}
         .content
+          
+          {% if post.content.size > 1000 %}
+          
+          {% unless post.categories contains 'volunteering' or post.categories contains 'events' %}
           {{ post.content | truncatehtml: 500 }}
           a(href='{{ site.baseurl }}{{ post.url }}') read more
+          {% endunless %}
+    
+          {% else %}      
+          {{ post.content }}
+          {% endif %}
+          
     {% endfor %}
     {% if page.is_post %}
     ul
