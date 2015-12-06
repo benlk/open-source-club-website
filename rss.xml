@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.0.0">Jekyll</generator>
+<link href="opensource.osu.edu/open-source-club-website/rss.xml" rel="self" type="application/atom+xml" />
+<link href="opensource.osu.edu/open-source-club-website/" rel="alternate" type="text/html" />
+<updated>2015-12-05T22:27:13-05:00</updated>
+<id>opensource.osu.edu/open-source-club-website/</id>
+<title>The Open Source Club</title>
+<subtitle>The Open Source Club at at the Ohio State University is a registered student organization composed of members from all around campus and out into the community who share a common enthusiasm for free, open source software.
+</subtitle>
+<entry>
+<title>Redis</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/12/01/redis/" rel="alternate" type="text/html" title="Redis" />
+<published>2015-12-01T00:00:00-05:00</published>
+<updated>2015-12-01T00:00:00-05:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/12/01/redis</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/12/01/redis/">&lt;p&gt;This Thursday, December 3rd at 7PM in Caldwell 120, J3RN will be talking about Redis, the in-memory key-value store.&lt;/p&gt;
+
+&lt;p&gt;Redis is a nice (and fast!) alternative to using a database if the values you are trying to store are simple, and is commonly used for caching. The types that Redis natively supports are strings, hashes, lists, sets, and sorted sets. Additionally, Redis has other cool features such as a configurable level of on-disk persistence and “sentinels” for high availability. Redis is used widely by companies such as CoverMyMeds and was the persistence for the deceased IRC bot “spell,” and might be the perfect fit for your next project!&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;–Jonathan “J3RN” Arnett&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>This Thursday, December 3rd at 7PM in Caldwell 120, J3RN will be talking about Redis, the in-memory key-value store.</summary>
+</entry>
+<entry>
+<title>No Meeting</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/11/20/no-meeting/" rel="alternate" type="text/html" title="No Meeting" />
+<published>2015-11-20T00:00:00-05:00</published>
+<updated>2015-11-20T00:00:00-05:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/11/20/no-meeting</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/11/20/no-meeting/">&lt;p&gt;No meeting this Thursday, November 26th. Go home.&lt;/p&gt;
+
+&lt;p&gt;The club systems will be undergoing scheduled maintenance this weekend, so expect downtime. Our sysadmin, William, will be reverting &lt;a href=&quot;https://www.gluster.org/&quot;&gt;Gluster&lt;/a&gt;. Also, We will be upgrading Stallman’s ram from 4GB ram to 12GB, in addition to replacing the power supply.&lt;/p&gt;
+
+&lt;p&gt;–Eli&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>No meeting this Thursday, November 26th. Go home.</summary>
+</entry>
+<entry>
+<title>Password Management</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/11/18/password-management/" rel="alternate" type="text/html" title="Password Management" />
+<published>2015-11-18T00:00:00-05:00</published>
+<updated>2015-11-18T00:00:00-05:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/11/18/password-management</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/11/18/password-management/">&lt;p&gt;This Thursday, November 19th at 7PM in Caldwell 120, We will discuss the many ways to safe guard/manage your passwords.
+Everyone at sometime or another has relied on their browser to store sensitive credentials quite often due to sheer simplicity. Did you know up until 2013 Chromium was storing a user’s credentials in PlainText.&lt;/p&gt;
+
+&lt;p&gt;Now if your the type that likes to use a password manager, you might already be aware that not all services are created equal. Just this Summer LastPass’ security was breached, exposing email accounts, encrypted master passwords, and password hints.&lt;/p&gt;
+
+&lt;p&gt;We will also discuss the lesser known solutions such as hardware encrypted HID devices. Just this year the Hack A Day community came together and designed/produced the Mooltipass, an open source hardware encrypted offline password manager.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult to strike a comparable balance between convenience and security. The intention of this talk is to explore a wide variety of cross-platform solutions to secure your personal data.&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;–Eli&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>This Thursday, November 19th at 7PM in Caldwell 120, We will discuss the many ways to safe guard/manage your passwords.Everyone at sometime or another has relied on their browser to store sensitive credentials quite often due to sheer simplicity. Did you know up until 2013 Chromium was storing a user’s credentials in PlainText.</summary>
+</entry>
+<entry>
+<title>Git - An Introduction and Explanation</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/11/11/git-introduction-and-explanation/" rel="alternate" type="text/html" title="Git - An Introduction and Explanation" />
+<published>2015-11-11T00:00:00-05:00</published>
+<updated>2015-11-11T00:00:00-05:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/11/11/git-introduction-and-explanation</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/11/11/git-introduction-and-explanation/">&lt;p&gt;Come join us Thursday, the 12th of November, as Nikit “Nefari0uss” Malkan talks about Git source control and how to use it for your projects (and perhaps even an upcoming hackathon).&lt;/p&gt;
+
+&lt;p&gt;I will talk about the different models of work flow, how source control plays a role, and then will talk extensively about &lt;em&gt;how&lt;/em&gt; Git works. Following that, I will briefly cover how to use some basic Git commands and how to set it up quickly for the upcoming OHI/O 2015 hackathon. Plan on this meeting being slightly longer than usual as I want to ensure people will walk with a working knowledge of Git for the hackathon. Laptops are highly encouraged so you can follow along. A Github account is highly prefered as we will work on a live demo, time pertaining. As always there will be Pizza.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The presentation slides can be [downloaded here]({{ site.baseurl }}/downloads/presentations/{{ page.path&lt;/td&gt;
+      &lt;td&gt;remove: “_posts/”&lt;/td&gt;
+      &lt;td&gt;replace: ‘.md’, ‘.pdf’ }})&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;–Nikit “Nefari0uss” Malkan&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>Come join us Thursday, the 12th of November, as Nikit “Nefari0uss” Malkan talks about Git source control and how to use it for your projects (and perhaps even an upcoming hackathon).</summary>
+</entry>
+<entry>
+<title>License to Code</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/10/30/license-to-code/" rel="alternate" type="text/html" title="License to Code" />
+<published>2015-10-30T00:00:00-04:00</published>
+<updated>2015-10-30T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/10/30/license-to-code</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/10/30/license-to-code/">&lt;p&gt;Come join us Thursday, the fifth of November, as Brandon Moore talks about licenses and why you should use one on any project you work on. Licensing is a key part of the open source community, and your choices are diverse. We will talk about licenses ranging from the copyleft to the copyright, the unlicense to the Apache license. We will discuss how you choose your license for a project and what implications your choice has, and more importantly what a lack of choosing a license means and how it affects the Open Source community.&lt;/p&gt;
+
+&lt;p&gt;Like every week, laptops are encouraged and there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;The presentation can be found &lt;a href=&quot;https://github.com/moore3071/license_presentation&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;–Bam&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>Come join us Thursday, the fifth of November, as Brandon Moore talks about licenses and why you should use one on any project you work on. Licensing is a key part of the open source community, and your choices are diverse. We will talk about licenses ranging from the copyleft to the copyright, the unlicense to the Apache license. We will discuss how you choose your license for a project and what implications your choice has, and more importantly what a lack of choosing a license means and how it affects the Open Source community.</summary>
+</entry>
+<entry>
+<title>Wireless Security and Penetration Testing</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/10/27/wireless-security-and-penetration-testing/" rel="alternate" type="text/html" title="Wireless Security and Penetration Testing" />
+<published>2015-10-27T00:00:00-04:00</published>
+<updated>2015-10-27T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/10/27/wireless-security-and-penetration-testing</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/10/27/wireless-security-and-penetration-testing/">&lt;p&gt;This Thursday, October 29th at 7PM in Caldwell 120, I, Eli Gladman, will speak on wireless security and penetration testing. Specifically I will be going over common network vulnerabilities and misconceptions. After a brief introduction, I will demonstrate how to brute force particular types of WiFi access points due to their inherently insecure “encryption”. I encourage people to follow along and learn the most they can about wireless security.&lt;/p&gt;
+
+&lt;p&gt;The intention of this talk is to educate members with respect to securing their own local networks. We are by no means responsible for the actions people take using these techniques learned at this meeting. Performing said activities without the explicit permission of said owner is against the law.&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;–Eli&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>This Thursday, October 29th at 7PM in Caldwell 120, I, Eli Gladman, will speak on wireless security and penetration testing. Specifically I will be going over common network vulnerabilities and misconceptions. After a brief introduction, I will demonstrate how to brute force particular types of WiFi access points due to their inherently insecure “encryption”. I encourage people to follow along and learn the most they can about wireless security.</summary>
+</entry>
+<entry>
+<title>Startup Weekend</title>
+<link href="opensource.osu.edu/open-source-club-website/events/2015/10/23/startup-weekend/" rel="alternate" type="text/html" title="Startup Weekend" />
+<published>2015-10-23T00:00:00-04:00</published>
+<updated>2015-10-23T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/events/2015/10/23/startup-weekend</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/events/2015/10/23/startup-weekend/">&lt;p&gt;Startup Weekend is November 20th. &lt;a href=&quot;http://www.up.co/communities/usa/columbus/startup-weekend/7362&quot;&gt;Learn More&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tickets are $100 however if you &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#105;&amp;#110;&amp;#102;&amp;#111;&amp;#064;&amp;#111;&amp;#112;&amp;#101;&amp;#110;&amp;#115;&amp;#111;&amp;#117;&amp;#114;&amp;#099;&amp;#101;&amp;#046;&amp;#111;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;email us&lt;/a&gt; we can provide you with a discount code to reduce the ticket price to $35.&lt;/p&gt;
+
+&lt;p&gt;I will be in attendance, I hope to see you there.&lt;/p&gt;
+
+&lt;p&gt;– Eli&lt;/p&gt;
+</content>
+<category term="events" />
+<summary>Startup Weekend is November 20th. Learn More.</summary>
+</entry>
+<entry>
+<title>Working in a Production Environment</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/10/22/covermymeds/" rel="alternate" type="text/html" title="Working in a Production Environment" />
+<published>2015-10-22T00:00:00-04:00</published>
+<updated>2015-10-22T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/10/22/covermymeds</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/10/22/covermymeds/">&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;This Thursday at 7:00PM in Caldwell Labs 120, Jay Bobo and Vasanth Pappu from CoverMyMeds will discuss what it’s like working in a production environment. For those that are unfamiliar, CoverMyMeds is a Columbus startup that automates the Prior Authorization process in the healthcare industry. I urge everyone to go check them out!&lt;/p&gt;
+
+&lt;p&gt;Laptops are encouraged but not required, and as always, there will be pizza.&lt;/p&gt;
+
+&lt;p&gt;– Eli&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>Hi everyone,</summary>
+</entry>
+<entry>
+<title>No Meeting This Thursday</title>
+<link href="opensource.osu.edu/open-source-club-website/announcements/2015/10/12/no-meeting/" rel="alternate" type="text/html" title="No Meeting This Thursday" />
+<published>2015-10-12T00:00:00-04:00</published>
+<updated>2015-10-12T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/announcements/2015/10/12/no-meeting</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/announcements/2015/10/12/no-meeting/">&lt;p&gt;Hey everyone,&lt;/p&gt;
+
+&lt;p&gt;Due to OSU’s Autumn Break we won’t be having a meeting this week, October 15th.
+Enjoy your time off!&lt;/p&gt;
+
+&lt;p&gt;–William Osler&lt;/p&gt;
+</content>
+<category term="announcements" />
+<summary>Hey everyone,</summary>
+</entry>
+<entry>
+<title>Engineering Homecoming Tailgate</title>
+<link href="opensource.osu.edu/open-source-club-website/volunteering/2015/10/07/homecoming-tailgate/" rel="alternate" type="text/html" title="Engineering Homecoming Tailgate" />
+<published>2015-10-07T00:00:00-04:00</published>
+<updated>2015-10-07T00:00:00-04:00</updated>
+<id>opensource.osu.edu/open-source-club-website/volunteering/2015/10/07/homecoming-tailgate</id>
+<content type="html" xml:base="opensource.osu.edu/open-source-club-website/volunteering/2015/10/07/homecoming-tailgate/">&lt;p&gt;Come volunteer at the Engineering Homecoming Tailgate.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date: Saturday, October 10th, 2015&lt;/li&gt;
+  &lt;li&gt;Where: Knowlton Hall Plaza&lt;/li&gt;
+  &lt;li&gt;Time: 9-11am&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Various shifts needed from 7 am-12pm&lt;/p&gt;
+
+&lt;p&gt;Positions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;event setup/cleanup&lt;/li&gt;
+  &lt;li&gt;greeters&lt;/li&gt;
+  &lt;li&gt;food &amp;amp; beverage line attendants&lt;/li&gt;
+  &lt;li&gt;registration staff&lt;/li&gt;
+  &lt;li&gt;trivia competition assistants&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+<category term="volunteering" />
+<summary>Come volunteer at the Engineering Homecoming Tailgate.</summary>
+</entry>
+</feed>

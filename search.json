@@ -1,0 +1,2331 @@
+[
+  
+    {
+      "title"    : "Redis",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/12/01/redis/",
+      "date"     : "12/01/2015"
+    } ,
+  
+    {
+      "title"    : "No Meeting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/11/20/no-meeting/",
+      "date"     : "11/20/2015"
+    } ,
+  
+    {
+      "title"    : "Password Management",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/11/18/password-management/",
+      "date"     : "11/18/2015"
+    } ,
+  
+    {
+      "title"    : "Git - An Introduction and Explanation",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/11/11/git-introduction-and-explanation/",
+      "date"     : "11/11/2015"
+    } ,
+  
+    {
+      "title"    : "License to Code",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/30/license-to-code/",
+      "date"     : "10/30/2015"
+    } ,
+  
+    {
+      "title"    : "Wireless Security and Penetration Testing",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/27/wireless-security-and-penetration-testing/",
+      "date"     : "10/27/2015"
+    } ,
+  
+    {
+      "title"    : "Startup Weekend",
+      "category" : "",
+      "tags"     : "events",
+      "url"      : "/open-source-club-website/events/2015/10/23/startup-weekend/",
+      "date"     : "10/23/2015"
+    } ,
+  
+    {
+      "title"    : "Working in a Production Environment",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/22/covermymeds/",
+      "date"     : "10/22/2015"
+    } ,
+  
+    {
+      "title"    : "No Meeting This Thursday",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/12/no-meeting/",
+      "date"     : "10/12/2015"
+    } ,
+  
+    {
+      "title"    : "Engineering Homecoming Tailgate",
+      "category" : "",
+      "tags"     : "volunteering",
+      "url"      : "/open-source-club-website/volunteering/2015/10/07/homecoming-tailgate/",
+      "date"     : "10/07/2015"
+    } ,
+  
+    {
+      "title"    : "Exploring Majors Fair",
+      "category" : "",
+      "tags"     : "volunteering",
+      "url"      : "/open-source-club-website/volunteering/2015/10/07/exploring-majors-fair/",
+      "date"     : "10/07/2015"
+    } ,
+  
+    {
+      "title"    : "BDAA Career Fair",
+      "category" : "",
+      "tags"     : "volunteering",
+      "url"      : "/open-source-club-website/volunteering/2015/10/07/bdaa-career-fair/",
+      "date"     : "10/07/2015"
+    } ,
+  
+    {
+      "title"    : "Pretty Good Privacy&amp;#58; Secure communications with PGP",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/03/gpg/",
+      "date"     : "10/03/2015"
+    } ,
+  
+    {
+      "title"    : "Logical Volumes and Fancy Filesystems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/10/01/filesystems/",
+      "date"     : "10/01/2015"
+    } ,
+  
+    {
+      "title"    : "Open Source at Facebook",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/09/20/opensource-at-facebook/",
+      "date"     : "09/20/2015"
+    } ,
+  
+    {
+      "title"    : "Lightning Talks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/09/15/lightning-talks/",
+      "date"     : "09/15/2015"
+    } ,
+  
+    {
+      "title"    : "Ohio LinuxFest 2015",
+      "category" : "",
+      "tags"     : "events",
+      "url"      : "/open-source-club-website/events/2015/09/14/ohio-linux-fest/",
+      "date"     : "09/14/2015"
+    } ,
+  
+    {
+      "title"    : "OHI/O 2015 Hackathon",
+      "category" : "",
+      "tags"     : "events",
+      "url"      : "/open-source-club-website/events/2015/09/14/ohio-hackathon/",
+      "date"     : "09/14/2015"
+    } ,
+  
+    {
+      "title"    : "Engineering Expo Career Fair",
+      "category" : "",
+      "tags"     : "volunteering",
+      "url"      : "/open-source-club-website/volunteering/2015/09/14/ecouncil-volunteering/",
+      "date"     : "09/14/2015"
+    } ,
+  
+    {
+      "title"    : "Introduction to the Command Line",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/09/08/command-line/",
+      "date"     : "09/08/2015"
+    } ,
+  
+    {
+      "title"    : "Linux Installfest",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/08/30/linux-installfest/",
+      "date"     : "08/30/2015"
+    } ,
+  
+    {
+      "title"    : "Student Involvement Fair",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/08/23/sif/",
+      "date"     : "08/23/2015"
+    } ,
+  
+    {
+      "title"    : "First Meeting of the Semester",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/08/23/first-meeting-of-the-semester/",
+      "date"     : "08/23/2015"
+    } ,
+  
+    {
+      "title"    : "Autumn 2015 Semester Schedule",
+      "category" : "",
+      "tags"     : "meetings",
+      "url"      : "/open-source-club-website/meetings/2015/08/21/semester-schedule/",
+      "date"     : "08/21/2015"
+    } ,
+  
+    {
+      "title"    : "Connecting to osuwireless with linux",
+      "category" : "",
+      "tags"     : "tutorials",
+      "url"      : "/open-source-club-website/tutorials/2015/08/20/osuwireless/",
+      "date"     : "08/20/2015"
+    } ,
+  
+    {
+      "title"    : "Club Officers",
+      "category" : "",
+      "tags"     : "history",
+      "url"      : "/open-source-club-website/history/2015/07/23/officers/",
+      "date"     : "07/23/2015"
+    } ,
+  
+    {
+      "title"    : "Come hangout with us on IRC",
+      "category" : "",
+      "tags"     : "tutorials",
+      "url"      : "/open-source-club-website/tutorials/2015/04/30/irc/",
+      "date"     : "04/30/2015"
+    } ,
+  
+    {
+      "title"    : "Advanced Vim Tutor",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/04/20/advanced-vim-tutor/",
+      "date"     : "04/20/2015"
+    } ,
+  
+    {
+      "title"    : "Lightning Talks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/04/13/lightning-talks/",
+      "date"     : "04/13/2015"
+    } ,
+  
+    {
+      "title"    : "Cryptocurrencies and Elections",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/04/08/cryptocurrencies-and-elections/",
+      "date"     : "04/08/2015"
+    } ,
+  
+    {
+      "title"    : "BeagleBone and Embedded Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/03/31/beaglebone-and-embedded-linux/",
+      "date"     : "03/31/2015"
+    } ,
+  
+    {
+      "title"    : "PostgreSQL",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/03/23/postgresql/",
+      "date"     : "03/23/2015"
+    } ,
+  
+    {
+      "title"    : "System Updates",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/03/09/system-updates/",
+      "date"     : "03/09/2015"
+    } ,
+  
+    {
+      "title"    : "Linux Multimedia",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/03/09/linux-multimedia/",
+      "date"     : "03/09/2015"
+    } ,
+  
+    {
+      "title"    : "ownCloud",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/03/03/owncloud/",
+      "date"     : "03/03/2015"
+    } ,
+  
+    {
+      "title"    : "Open Source and Web Browsers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/02/23/open-source-and-web-browsers/",
+      "date"     : "02/23/2015"
+    } ,
+  
+    {
+      "title"    : "MediaWiki",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/02/09/mediawiki/",
+      "date"     : "02/09/2015"
+    } ,
+  
+    {
+      "title"    : "Rosetta",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/02/02/rosetta/",
+      "date"     : "02/02/2015"
+    } ,
+  
+    {
+      "title"    : "Python",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/01/26/python/",
+      "date"     : "01/26/2015"
+    } ,
+  
+    {
+      "title"    : "Introduction to Web Development",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/01/20/introduction-to-web-development/",
+      "date"     : "01/20/2015"
+    } ,
+  
+    {
+      "title"    : "Welcome Back",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2015/01/12/welcome-back/",
+      "date"     : "01/12/2015"
+    } ,
+  
+    {
+      "title"    : "Raspberry Pi",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/12/01/raspberry-pi/",
+      "date"     : "12/01/2014"
+    } ,
+  
+    {
+      "title"    : "Introduction to Security Concepts",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/11/18/introduction-to-security-concepts/",
+      "date"     : "11/18/2014"
+    } ,
+  
+    {
+      "title"    : "Web Privacy",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/11/10/web-privacy/",
+      "date"     : "11/10/2014"
+    } ,
+  
+    {
+      "title"    : "Intellidu",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/11/04/intellidu/",
+      "date"     : "11/04/2014"
+    } ,
+  
+    {
+      "title"    : "Open Source at Facebook",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/10/21/open-source-at-facebook/",
+      "date"     : "10/21/2014"
+    } ,
+  
+    {
+      "title"    : "Elixir",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/10/15/elixir/",
+      "date"     : "10/15/2014"
+    } ,
+  
+    {
+      "title"    : "Love your Music and Movies again with Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/10/12/love-your-music-and-movies-again-with-linux/",
+      "date"     : "10/12/2014"
+    } ,
+  
+    {
+      "title"    : "Personal Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/10/06/personal-projects/",
+      "date"     : "10/06/2014"
+    } ,
+  
+    {
+      "title"    : "Zimbra: Open Source Mail and Groupware",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/09/29/zimbra-open-source-mail-and-groupware/",
+      "date"     : "09/29/2014"
+    } ,
+  
+    {
+      "title"    : "Pure Data",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/09/22/pure-data/",
+      "date"     : "09/22/2014"
+    } ,
+  
+    {
+      "title"    : "Introduction to the Command Line",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/09/15/introduction-to-the-command-line/",
+      "date"     : "09/15/2014"
+    } ,
+  
+    {
+      "title"    : "Wireless Security",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/09/08/wireless-security/",
+      "date"     : "09/08/2014"
+    } ,
+  
+    {
+      "title"    : "Linux Installfest",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/09/01/linux-installfest/",
+      "date"     : "09/01/2014"
+    } ,
+  
+    {
+      "title"    : "What is Open Source?",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/08/21/what-is-open-source/",
+      "date"     : "08/21/2014"
+    } ,
+  
+    {
+      "title"    : "Cracking the Data Encryption Standard",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/04/18/cracking-the-data-encryption-standard/",
+      "date"     : "04/18/2014"
+    } ,
+  
+    {
+      "title"    : "Anti-features, Free and Open Source Software, and Ethics",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/04/14/anti-features-free-and-open-source-software-and-ethics/",
+      "date"     : "04/14/2014"
+    } ,
+  
+    {
+      "title"    : "Open Source Hardware (Arduino)",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/03/28/open-source-hardware-arduino/",
+      "date"     : "03/28/2014"
+    } ,
+  
+    {
+      "title"    : "Constitution",
+      "category" : "",
+      "tags"     : "history",
+      "url"      : "/open-source-club-website/history/2014/03/28/constitution/",
+      "date"     : "03/28/2014"
+    } ,
+  
+    {
+      "title"    : "Bedrock Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/03/24/bedrock-linux/",
+      "date"     : "03/24/2014"
+    } ,
+  
+    {
+      "title"    : "Raspberry Pi / Officer Nominations",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/03/17/raspberry-pi-officer-nominations/",
+      "date"     : "03/17/2014"
+    } ,
+  
+    {
+      "title"    : "Securing Public Wireless Use: OpenVPN",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/03/04/securing-public-wireless-use-openvpn/",
+      "date"     : "03/04/2014"
+    } ,
+  
+    {
+      "title"    : "Crypto Currencies",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/02/26/crypto-currencies/",
+      "date"     : "02/26/2014"
+    } ,
+  
+    {
+      "title"    : "OSC Goes to COLUG! (OpenStack)",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/02/17/osc-goes-to-colug-openstack/",
+      "date"     : "02/17/2014"
+    } ,
+  
+    {
+      "title"    : "Init Discussions",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/02/11/init-discussions/",
+      "date"     : "02/11/2014"
+    } ,
+  
+    {
+      "title"    : "Filesystems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/02/04/filesystems/",
+      "date"     : "02/04/2014"
+    } ,
+  
+    {
+      "title"    : "Resume Review",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/01/27/resume-review/",
+      "date"     : "01/27/2014"
+    } ,
+  
+    {
+      "title"    : "Distributed Version Control Systems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/01/20/distributed-version-control-systems/",
+      "date"     : "01/20/2014"
+    } ,
+  
+    {
+      "title"    : "Virtualization",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/01/13/virtualization/",
+      "date"     : "01/13/2014"
+    } ,
+  
+    {
+      "title"    : "Welcome Back",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2014/01/07/welcome-back/",
+      "date"     : "01/07/2014"
+    } ,
+  
+    {
+      "title"    : "vim",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/11/17/vim/",
+      "date"     : "11/17/2013"
+    } ,
+  
+    {
+      "title"    : "Developer Tools",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/11/12/developer-tools/",
+      "date"     : "11/12/2013"
+    } ,
+  
+    {
+      "title"    : "LAN Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/11/06/lan-party/",
+      "date"     : "11/06/2013"
+    } ,
+  
+    {
+      "title"    : "Internet Privacy and Anonymization",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/11/05/internet-privacy-and-anonymization/",
+      "date"     : "11/05/2013"
+    } ,
+  
+    {
+      "title"    : "JavaScript",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/10/20/javascript/",
+      "date"     : "10/20/2013"
+    } ,
+  
+    {
+      "title"    : "Android",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/10/15/android/",
+      "date"     : "10/15/2013"
+    } ,
+  
+    {
+      "title"    : "Security and Encryption",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/10/08/security-and-encryption/",
+      "date"     : "10/08/2013"
+    } ,
+  
+    {
+      "title"    : "AWK",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/10/01/awk/",
+      "date"     : "10/01/2013"
+    } ,
+  
+    {
+      "title"    : "Desktop Applications",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/09/23/desktop-applications/",
+      "date"     : "09/23/2013"
+    } ,
+  
+    {
+      "title"    : "Wireless Security",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/09/16/wireless-security/",
+      "date"     : "09/16/2013"
+    } ,
+  
+    {
+      "title"    : "Connecting to IRC",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/09/12/connecting-to-irc/",
+      "date"     : "09/12/2013"
+    } ,
+  
+    {
+      "title"    : "Overview of Web Servers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/09/08/overview-of-web-servers/",
+      "date"     : "09/08/2013"
+    } ,
+  
+    {
+      "title"    : "Introduction to Command Line",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/09/02/introduction-to-command-line/",
+      "date"     : "09/02/2013"
+    } ,
+  
+    {
+      "title"    : "Linux InstallFest and Introduction",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/08/24/linux-installfest-and-introduction/",
+      "date"     : "08/24/2013"
+    } ,
+  
+    {
+      "title"    : "What is Open Source",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/08/17/what-is-open-source/",
+      "date"     : "08/17/2013"
+    } ,
+  
+    {
+      "title"    : "End of the Year",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/04/16/end-of-the-year/",
+      "date"     : "04/16/2013"
+    } ,
+  
+    {
+      "title"    : "Security and Elections",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/04/08/security-and-elections/",
+      "date"     : "04/08/2013"
+    } ,
+  
+    {
+      "title"    : "Richard Stallman visiting OSU",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/03/25/richard-stallman-visiting-osu/",
+      "date"     : "03/25/2013"
+    } ,
+  
+    {
+      "title"    : "Python",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/03/25/python/",
+      "date"     : "03/25/2013"
+    } ,
+  
+    {
+      "title"    : "Shell Scripting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/03/18/shell-scripting/",
+      "date"     : "03/18/2013"
+    } ,
+  
+    {
+      "title"    : "Distributed Version Control",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/03/04/distributed-version-control/",
+      "date"     : "03/04/2013"
+    } ,
+  
+    {
+      "title"    : "Raspberry Pi",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/02/25/raspberry-pi/",
+      "date"     : "02/25/2013"
+    } ,
+  
+    {
+      "title"    : "Willie the IRC bot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/02/18/willie-the-irc-bot/",
+      "date"     : "02/18/2013"
+    } ,
+  
+    {
+      "title"    : "Getting the Most Battery out of Your Laptop",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/02/11/getting-the-most-battery-out-of-your-laptop/",
+      "date"     : "02/11/2013"
+    } ,
+  
+    {
+      "title"    : "Introduction to Android Development by Harris",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/02/04/introduction-to-android-development-by-harris/",
+      "date"     : "02/04/2013"
+    } ,
+  
+    {
+      "title"    : "GIMP Image Editing",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/01/24/gimp-image-editing/",
+      "date"     : "01/24/2013"
+    } ,
+  
+    {
+      "title"    : "IRC",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/01/22/irc/",
+      "date"     : "01/22/2013"
+    } ,
+  
+    {
+      "title"    : "The Command Line",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/01/14/the-command-line/",
+      "date"     : "01/14/2013"
+    } ,
+  
+    {
+      "title"    : "Open Source Operating Systems and Semester Planning",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2013/01/08/open-source-operating-systems-and-semester-planning/",
+      "date"     : "01/08/2013"
+    } ,
+  
+    {
+      "title"    : "Personal Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/11/27/personal-projects/",
+      "date"     : "11/27/2012"
+    } ,
+  
+    {
+      "title"    : "No Meeting this Week",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/11/21/no-meeting-this-week/",
+      "date"     : "11/21/2012"
+    } ,
+  
+    {
+      "title"    : "Ardunio",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/11/15/ardunio/",
+      "date"     : "11/15/2012"
+    } ,
+  
+    {
+      "title"    : "Forensic Analysis",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/11/06/forensic-analysis/",
+      "date"     : "11/06/2012"
+    } ,
+  
+    {
+      "title"    : "Open Stack",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/30/open-stack/",
+      "date"     : "10/30/2012"
+    } ,
+  
+    {
+      "title"    : "Advanced Overview of Vim",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/21/advanced-overview-of-vim/",
+      "date"     : "10/21/2012"
+    } ,
+  
+    {
+      "title"    : "What NOT to do with your F/OSS Operating System",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/15/what-not-to-do-with-your-f-oss-operating-system/",
+      "date"     : "10/15/2012"
+    } ,
+  
+    {
+      "title"    : "Introduction to Vim",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/04/introduction-to-vim/",
+      "date"     : "10/04/2012"
+    } ,
+  
+    {
+      "title"    : "October 2012 Lan Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/03/october-2012-lan-party/",
+      "date"     : "10/03/2012"
+    } ,
+  
+    {
+      "title"    : "Open Source and Your Music",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/10/01/open-source-and-your-music/",
+      "date"     : "10/01/2012"
+    } ,
+  
+    {
+      "title"    : "Blender",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/09/14/blender/",
+      "date"     : "09/14/2012"
+    } ,
+  
+    {
+      "title"    : "Emacs",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/09/07/emacs/",
+      "date"     : "09/07/2012"
+    } ,
+  
+    {
+      "title"    : "Autumn LAN Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/09/07/autumn-lan-party/",
+      "date"     : "09/07/2012"
+    } ,
+  
+    {
+      "title"    : "Android",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/09/03/android/",
+      "date"     : "09/03/2012"
+    } ,
+  
+    {
+      "title"    : "Wi-Fi Hacking",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/08/24/wi-fi-hacking/",
+      "date"     : "08/24/2012"
+    } ,
+  
+    {
+      "title"    : "First Meeting: What is Open Source?",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/08/16/first-meeting-what-is-open-source/",
+      "date"     : "08/16/2012"
+    } ,
+  
+    {
+      "title"    : "SystemTap",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/08/15/systemtap/",
+      "date"     : "08/15/2012"
+    } ,
+  
+    {
+      "title"    : "IRC Channel moved to #osuosc",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/06/28/irc-channel-moved-to-osuosc/",
+      "date"     : "06/28/2012"
+    } ,
+  
+    {
+      "title"    : "Summer Meetups",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/06/01/summer-meetups/",
+      "date"     : "06/01/2012"
+    } ,
+  
+    {
+      "title"    : "Personal Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/29/personal-projects/",
+      "date"     : "05/29/2012"
+    } ,
+  
+    {
+      "title"    : "Bedrock Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/21/bedrock-linux/",
+      "date"     : "05/21/2012"
+    } ,
+  
+    {
+      "title"    : "Elections, LaTeX, and LAN party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/11/elections-latex-and-lan-party/",
+      "date"     : "05/11/2012"
+    } ,
+  
+    {
+      "title"    : "Python",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/07/python/",
+      "date"     : "05/07/2012"
+    } ,
+  
+    {
+      "title"    : "OSC Spring LAN",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/07/osc-spring-lan/",
+      "date"     : "05/07/2012"
+    } ,
+  
+    {
+      "title"    : "Android",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/05/01/android/",
+      "date"     : "05/01/2012"
+    } ,
+  
+    {
+      "title"    : "This Week In Slashdot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/04/23/this-week-in-slashdot/",
+      "date"     : "04/23/2012"
+    } ,
+  
+    {
+      "title"    : "Blender 3D Modeling &amp; Short Films",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/04/17/blender-3d-modeling-and-short-films/",
+      "date"     : "04/17/2012"
+    } ,
+  
+    {
+      "title"    : "Sage Mathematics",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/04/10/sage-mathematics/",
+      "date"     : "04/10/2012"
+    } ,
+  
+    {
+      "title"    : "Portable Unix Shell Scripting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/04/05/portable-unix-shell-scripting/",
+      "date"     : "04/05/2012"
+    } ,
+  
+    {
+      "title"    : "Arduino and Open Source Hardware",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/03/08/arduino-and-open-source-hardware/",
+      "date"     : "03/08/2012"
+    } ,
+  
+    {
+      "title"    : "That&#39;s What She Said and Planning",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/03/07/thats-what-she-said-and-planning/",
+      "date"     : "03/07/2012"
+    } ,
+  
+    {
+      "title"    : "Window Managers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/02/27/window-managers/",
+      "date"     : "02/27/2012"
+    } ,
+  
+    {
+      "title"    : "Personal Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/02/21/personal-projects/",
+      "date"     : "02/21/2012"
+    } ,
+  
+    {
+      "title"    : "Introduction to GIMP Image Editing",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/02/07/introduction-to-gimp-image-editing/",
+      "date"     : "02/07/2012"
+    } ,
+  
+    {
+      "title"    : "The Shibboleth Project and Web Authentication at OSU",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/02/03/the-shibboleth-project-and-web-authentication-at-osu/",
+      "date"     : "02/03/2012"
+    } ,
+  
+    {
+      "title"    : "Unix Command-Line Utilities",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/30/unix-command-line-utilities/",
+      "date"     : "01/30/2012"
+    } ,
+  
+    {
+      "title"    : "Haskell: Part III: Winter Resistance Edition: Snow and Freezing Rain Will Not Stop Us (neither will dry, 50F weather)",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/25/haskell-part-iii-winter-resistance-edition-snow-and-freezing-rain-will-not-stop-us-neither-will-dry-50f-weather/",
+      "date"     : "01/25/2012"
+    } ,
+  
+    {
+      "title"    : "Haskell: Part III",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/24/haskell-part-iii/",
+      "date"     : "01/24/2012"
+    } ,
+  
+    {
+      "title"    : "Introduction to Haskell Part B",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/18/introduction-to-haskell-part-b/",
+      "date"     : "01/18/2012"
+    } ,
+  
+    {
+      "title"    : "Introduction to Haskell Part 0",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/09/introduction-to-haskell-part-0/",
+      "date"     : "01/09/2012"
+    } ,
+  
+    {
+      "title"    : "Distributed Version Control Systems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2012/01/01/distributed-version-control-systems/",
+      "date"     : "01/01/2012"
+    } ,
+  
+    {
+      "title"    : "Open Source Operating Systems and Winter 2011 Planning",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/11/28/open-source-operating-systems-and-winter-2011-planning/",
+      "date"     : "11/28/2011"
+    } ,
+  
+    {
+      "title"    : "LAN Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/11/17/lan-party/",
+      "date"     : "11/17/2011"
+    } ,
+  
+    {
+      "title"    : "Open Source Multiplayer Games",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/11/15/open-source-multiplayer-games/",
+      "date"     : "11/15/2011"
+    } ,
+  
+    {
+      "title"    : "Clojure",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/11/07/clojure/",
+      "date"     : "11/07/2011"
+    } ,
+  
+    {
+      "title"    : "This Week in Slashdot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/10/30/this-week-in-slashdot/",
+      "date"     : "10/30/2011"
+    } ,
+  
+    {
+      "title"    : "Regular Expressions",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/10/24/regular-expressions/",
+      "date"     : "10/24/2011"
+    } ,
+  
+    {
+      "title"    : "Xiki",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/10/19/xiki/",
+      "date"     : "10/19/2011"
+    } ,
+  
+    {
+      "title"    : "Vim",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/10/09/vim/",
+      "date"     : "10/09/2011"
+    } ,
+  
+    {
+      "title"    : "Certificate expired warning",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/09/30/certificate-expired-warning/",
+      "date"     : "09/30/2011"
+    } ,
+  
+    {
+      "title"    : "Making Pictures Lie",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/09/27/making-pictures-lie/",
+      "date"     : "09/27/2011"
+    } ,
+  
+    {
+      "title"    : "Wireless Hacking",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/09/26/wireless-hacking/",
+      "date"     : "09/26/2011"
+    } ,
+  
+    {
+      "title"    : "First meeting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/09/19/first-meeting/",
+      "date"     : "09/19/2011"
+    } ,
+  
+    {
+      "title"    : "Summer",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/06/05/summer/",
+      "date"     : "06/05/2011"
+    } ,
+  
+    {
+      "title"    : "Web Application Security",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/05/30/web-application-security/",
+      "date"     : "05/30/2011"
+    } ,
+  
+    {
+      "title"    : "Arduino",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/05/22/arduino/",
+      "date"     : "05/22/2011"
+    } ,
+  
+    {
+      "title"    : "Functional Programming",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/05/17/functional-programming/",
+      "date"     : "05/17/2011"
+    } ,
+  
+    {
+      "title"    : "LAN Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/05/08/lan-party/",
+      "date"     : "05/08/2011"
+    } ,
+  
+    {
+      "title"    : "Elections",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/05/03/elections/",
+      "date"     : "05/03/2011"
+    } ,
+  
+    {
+      "title"    : "Mandatory Access Control",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/30/mandatory-access-control/",
+      "date"     : "04/30/2011"
+    } ,
+  
+    {
+      "title"    : "CLI Utilities",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/26/cli-utilities/",
+      "date"     : "04/26/2011"
+    } ,
+  
+    {
+      "title"    : "Quiz Bowl",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/18/quiz-bowl/",
+      "date"     : "04/18/2011"
+    } ,
+  
+    {
+      "title"    : "Breaking Stuff",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/18/breaking-stuff/",
+      "date"     : "04/18/2011"
+    } ,
+  
+    {
+      "title"    : "Go (board game) AI",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/09/go-board-game-ai/",
+      "date"     : "04/09/2011"
+    } ,
+  
+    {
+      "title"    : "Open Source Security Tools",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/04/open-source-security-tools/",
+      "date"     : "04/04/2011"
+    } ,
+  
+    {
+      "title"    : "New Microsoft Partnership",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/04/01/new-microsoft-partnership/",
+      "date"     : "04/01/2011"
+    } ,
+  
+    {
+      "title"    : "Window Managers and Desktop Environments",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/03/10/window-managers-and-desktop-environments/",
+      "date"     : "03/10/2011"
+    } ,
+  
+    {
+      "title"    : "Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/03/08/projects/",
+      "date"     : "03/08/2011"
+    } ,
+  
+    {
+      "title"    : "Shells",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/02/28/shells/",
+      "date"     : "02/28/2011"
+    } ,
+  
+    {
+      "title"    : "Android Development",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/02/21/android-development/",
+      "date"     : "02/21/2011"
+    } ,
+  
+    {
+      "title"    : "Markup Languages",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/02/13/markup-languages/",
+      "date"     : "02/13/2011"
+    } ,
+  
+    {
+      "title"    : "Wireless Hacking",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/02/07/wireless-hacking/",
+      "date"     : "02/07/2011"
+    } ,
+  
+    {
+      "title"    : "Microcontrollers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/31/microcontrollers/",
+      "date"     : "01/31/2011"
+    } ,
+  
+    {
+      "title"    : "An Introduction to Blender!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/25/an-introduction-to-blender/",
+      "date"     : "01/25/2011"
+    } ,
+  
+    {
+      "title"    : "Quiz Bowl with UPE and ACM-W",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/18/quiz-bowl-with-upe-and-acm-w/",
+      "date"     : "01/18/2011"
+    } ,
+  
+    {
+      "title"    : "Gimp Image Editing - Winter 2011",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/07/gimp-image-editing-winter-2011/",
+      "date"     : "01/07/2011"
+    } ,
+  
+    {
+      "title"    : "OSU Sign-on and OpenID Now Supported",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/04/osu-sign-on-and-openid-now-supported/",
+      "date"     : "01/04/2011"
+    } ,
+  
+    {
+      "title"    : "Chroot and Linux From Scatch",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2011/01/01/chroot-and-linux-from-scatch/",
+      "date"     : "01/01/2011"
+    } ,
+  
+    {
+      "title"    : "Finals and Winter Break",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/12/05/finals-and-winter-break/",
+      "date"     : "12/05/2010"
+    } ,
+  
+    {
+      "title"    : "Vim",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/11/29/vim/",
+      "date"     : "11/29/2010"
+    } ,
+  
+    {
+      "title"    : "No Meeting this Week",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/11/21/no-meeting-this-week/",
+      "date"     : "11/21/2010"
+    } ,
+  
+    {
+      "title"    : "Xen Virtualization",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/11/15/xen-virtualization/",
+      "date"     : "11/15/2010"
+    } ,
+  
+    {
+      "title"    : "The Git Distributed Version Control System",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/11/06/the-git-distributed-version-control-system/",
+      "date"     : "11/06/2010"
+    } ,
+  
+    {
+      "title"    : "Model View Controllers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/11/01/model-view-controllers/",
+      "date"     : "11/01/2010"
+    } ,
+  
+    {
+      "title"    : "This Week in Slashdot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/10/23/this-week-in-slashdot/",
+      "date"     : "10/23/2010"
+    } ,
+  
+    {
+      "title"    : "Why Python?",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/10/18/why-python/",
+      "date"     : "10/18/2010"
+    } ,
+  
+    {
+      "title"    : "GIMP Image editing - Autumn 2010",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/10/07/gimp-image-editing-autumn-2010/",
+      "date"     : "10/07/2010"
+    } ,
+  
+    {
+      "title"    : "Mua the Mutt",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/10/01/mua-the-mutt/",
+      "date"     : "10/01/2010"
+    } ,
+  
+    {
+      "title"    : "Open Source Music Ripper / Server / Client",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/09/27/open-source-music-ripper-server-client/",
+      "date"     : "09/27/2010"
+    } ,
+  
+    {
+      "title"    : "Blood Drive",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/09/25/blood-drive/",
+      "date"     : "09/25/2010"
+    } ,
+  
+    {
+      "title"    : "Overview of free desktop operating systems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/09/20/overview-of-free-desktop-operating-systems/",
+      "date"     : "09/20/2010"
+    } ,
+  
+    {
+      "title"    : "Ohio Linuxfest September 10-12",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/09/06/ohio-linuxfest-september-10-12/",
+      "date"     : "09/06/2010"
+    } ,
+  
+    {
+      "title"    : "Planning Meeting [8/17/2010]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/08/10/planning-meeting-8-17-2010/",
+      "date"     : "08/10/2010"
+    } ,
+  
+    {
+      "title"    : "PyOhio",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/07/30/pyohio/",
+      "date"     : "07/30/2010"
+    } ,
+  
+    {
+      "title"    : "Unofficial Meeting 6/24",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/06/23/unofficial-meeting-6-24/",
+      "date"     : "06/23/2010"
+    } ,
+  
+    {
+      "title"    : "YAPC",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/06/14/yapc/",
+      "date"     : "06/14/2010"
+    } ,
+  
+    {
+      "title"    : "Game Tournament",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/05/21/game-tournament/",
+      "date"     : "05/21/2010"
+    } ,
+  
+    {
+      "title"    : "Elections for the 2010/2011 Year",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/05/13/elections-for-the-2010-2011-year/",
+      "date"     : "05/13/2010"
+    } ,
+  
+    {
+      "title"    : "This Week In Slashdot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/30/this-week-in-slashdot/",
+      "date"     : "04/30/2010"
+    } ,
+  
+    {
+      "title"    : "Open Source Gaming",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/30/open-source-gaming/",
+      "date"     : "04/30/2010"
+    } ,
+  
+    {
+      "title"    : "Ubuntu 10.04 Released",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/29/ubuntu-10-04-released/",
+      "date"     : "04/29/2010"
+    } ,
+  
+    {
+      "title"    : "(Attempting) Linux on Anything",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/25/attempting-linux-on-anything/",
+      "date"     : "04/25/2010"
+    } ,
+  
+    {
+      "title"    : "ShellCoding",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/18/shellcoding/",
+      "date"     : "04/18/2010"
+    } ,
+  
+    {
+      "title"    : "Perl",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/18/perl/",
+      "date"     : "04/18/2010"
+    } ,
+  
+    {
+      "title"    : "Open Source GIS",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/18/open-source-gis/",
+      "date"     : "04/18/2010"
+    } ,
+  
+    {
+      "title"    : "Mandatory Access Control",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/18/mandatory-access-control/",
+      "date"     : "04/18/2010"
+    } ,
+  
+    {
+      "title"    : "Nifty Tips and Tricks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/09/nifty-tips-and-tricks/",
+      "date"     : "04/09/2010"
+    } ,
+  
+    {
+      "title"    : "Language Lightning Talks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/05/language-lightning-talks/",
+      "date"     : "04/05/2010"
+    } ,
+  
+    {
+      "title"    : "Linux Mandatory Access Control",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/04/02/linux-mandatory-access-control/",
+      "date"     : "04/02/2010"
+    } ,
+  
+    {
+      "title"    : "Wireless Printing in Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/03/18/wireless-printing-in-linux/",
+      "date"     : "03/18/2010"
+    } ,
+  
+    {
+      "title"    : "Spring 2010 Meetings",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/03/12/spring-2010-meetings/",
+      "date"     : "03/12/2010"
+    } ,
+  
+    {
+      "title"    : "Finals Week and Spring Break",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/03/12/finals-week-and-spring-break/",
+      "date"     : "03/12/2010"
+    } ,
+  
+    {
+      "title"    : "Maximizing Battery Life in Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/02/16/maximizing-battery-life-in-linux/",
+      "date"     : "02/16/2010"
+    } ,
+  
+    {
+      "title"    : "Mini Hackathon!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/mini-hackathon/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "Intermediate and Advanced Python",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/intermediate-and-advanced-python/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "GNU Utilities",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/gnu-utilities/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "GIMP - Spring 2010",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/gimp-spring-2010/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "Command Line Applications",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/command-line-applications/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "Alternative Window Managers",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/25/alternative-window-managers/",
+      "date"     : "01/25/2010"
+    } ,
+  
+    {
+      "title"    : "Virtualization",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/18/virtualization/",
+      "date"     : "01/18/2010"
+    } ,
+  
+    {
+      "title"    : "This Week in Slashdot",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2010/01/11/this-week-in-slashdot/",
+      "date"     : "01/11/2010"
+    } ,
+  
+    {
+      "title"    : "Wireless hacking",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/12/18/wireless-hacking/",
+      "date"     : "12/18/2009"
+    } ,
+  
+    {
+      "title"    : "emacs",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/12/18/emacs/",
+      "date"     : "12/18/2009"
+    } ,
+  
+    {
+      "title"    : "Projects",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/12/07/projects/",
+      "date"     : "12/07/2009"
+    } ,
+  
+    {
+      "title"    : "Vim!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/11/17/vim/",
+      "date"     : "11/17/2009"
+    } ,
+  
+    {
+      "title"    : "Linux Install Fest",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/11/04/linux-install-fest/",
+      "date"     : "11/04/2009"
+    } ,
+  
+    {
+      "title"    : "12/3/2009 - General Lightning Talks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/11/12-3-2009-general-lightning-talks/",
+      "date"     : "10/11/2009"
+    } ,
+  
+    {
+      "title"    : "11/5/2009 - Source Control Lightning Talks",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/11/11-5-2009-source-control-lightning-talks/",
+      "date"     : "10/11/2009"
+    } ,
+  
+    {
+      "title"    : "11/12/2009 - Mobile Software Development Forum",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/11/11-12-2009-mobile-software-development-forum/",
+      "date"     : "10/11/2009"
+    } ,
+  
+    {
+      "title"    : "10/29/2009 - Linux Kernel Configuration",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/11/10-29-2009-linux-kernel-configuration/",
+      "date"     : "10/11/2009"
+    } ,
+  
+    {
+      "title"    : "10/22/2009 - All About Python",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/11/10-22-2009-all-about-python/",
+      "date"     : "10/11/2009"
+    } ,
+  
+    {
+      "title"    : "Scott Merrill from Columbus FreeGeek",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/09/scott-merrill-from-columbus-freegeek/",
+      "date"     : "10/09/2009"
+    } ,
+  
+    {
+      "title"    : "Open Source Club IRC Rules",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/07/open-source-club-irc-rules/",
+      "date"     : "10/07/2009"
+    } ,
+  
+    {
+      "title"    : "10/8/2009 - LVM In A Nutshell",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/10/07/10-8-2009-lvm-in-a-nutshell/",
+      "date"     : "10/07/2009"
+    } ,
+  
+    {
+      "title"    : "10/1/2009 - Intro to Linux and an Overview of Distros",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/09/28/10-1-2009-intro-to-linux-and-an-overview-of-distros/",
+      "date"     : "09/28/2009"
+    } ,
+  
+    {
+      "title"    : "9/24/2009 - First Meeting of the Year",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/09/21/9-24-2009-first-meeting-of-the-year/",
+      "date"     : "09/21/2009"
+    } ,
+  
+    {
+      "title"    : "Welcome to Torvalds!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/08/04/welcome-to-torvalds/",
+      "date"     : "08/04/2009"
+    } ,
+  
+    {
+      "title"    : "Revising the Constitution",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/05/31/revising-the-constitution/",
+      "date"     : "05/31/2009"
+    } ,
+  
+    {
+      "title"    : "Updating the Constitution",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/05/29/updating-the-constitution/",
+      "date"     : "05/29/2009"
+    } ,
+  
+    {
+      "title"    : "2009-2010 Elections",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/05/24/2009-2010-elections/",
+      "date"     : "05/24/2009"
+    } ,
+  
+    {
+      "title"    : "Embedded Control for Art &amp; Music",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/05/15/embedded-control-for-art-and-music/",
+      "date"     : "05/15/2009"
+    } ,
+  
+    {
+      "title"    : "Computer Vision &amp; Robotics",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/04/24/computer-vision-and-robotics/",
+      "date"     : "04/24/2009"
+    } ,
+  
+    {
+      "title"    : "Advanced Bash Scripting [04/23/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/04/19/advanced-bash-scripting-04-23-09/",
+      "date"     : "04/19/2009"
+    } ,
+  
+    {
+      "title"    : "Intro to Python [4/16/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/04/13/intro-to-python-4-16-09/",
+      "date"     : "04/13/2009"
+    } ,
+  
+    {
+      "title"    : "Effective sshd_config [04/09/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/04/09/effective-sshd-config-04-09-09/",
+      "date"     : "04/09/2009"
+    } ,
+  
+    {
+      "title"    : "Club Stuff [04/02/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/04/01/club-stuff-04-02-09/",
+      "date"     : "04/01/2009"
+    } ,
+  
+    {
+      "title"    : "SSH tunneling, TOR, proxies, etc. [3/5/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/03/04/ssh-tunneling-tor-proxies-etc-3-5-09/",
+      "date"     : "03/04/2009"
+    } ,
+  
+    {
+      "title"    : "Wifi Hacking [2/26/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/02/21/wifi-hacking-2-26-09/",
+      "date"     : "02/21/2009"
+    } ,
+  
+    {
+      "title"    : "Xbox 360 Modding [2/19/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/02/18/xbox-360-modding-2-19-09/",
+      "date"     : "02/18/2009"
+    } ,
+  
+    {
+      "title"    : "Doing it Live [2/12/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/02/12/doing-it-live-2-12-09/",
+      "date"     : "02/12/2009"
+    } ,
+  
+    {
+      "title"    : "Project Stuff [2/5/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/02/05/project-stuff-2-5-09/",
+      "date"     : "02/05/2009"
+    } ,
+  
+    {
+      "title"    : "Open Discussion [1/15/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/01/15/open-discussion-1-15-09/",
+      "date"     : "01/15/2009"
+    } ,
+  
+    {
+      "title"    : "Involvement Fair [1/8/09]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2009/01/06/involvement-fair-1-8-09/",
+      "date"     : "01/06/2009"
+    } ,
+  
+    {
+      "title"    : "Autumn 2008 Meetings",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/12/07/autumn-2008-meetings/",
+      "date"     : "12/07/2008"
+    } ,
+  
+    {
+      "title"    : "This Week in Slashdot [11/20/08]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/11/18/this-week-in-slashdot-11-20-08/",
+      "date"     : "11/18/2008"
+    } ,
+  
+    {
+      "title"    : "Shell scripting [12/4/08]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/11/18/shell-scripting-12-4-08/",
+      "date"     : "11/18/2008"
+    } ,
+  
+    {
+      "title"    : "OpenVPN",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/11/11/openvpn/",
+      "date"     : "11/11/2008"
+    } ,
+  
+    {
+      "title"    : "Interface Design [11/06/08]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/11/04/interface-design-11-06-08/",
+      "date"     : "11/04/2008"
+    } ,
+  
+    {
+      "title"    : "Wiimote Hacking [10/23/08]",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/10/22/wiimote-hacking-10-23-08/",
+      "date"     : "10/22/2008"
+    } ,
+  
+    {
+      "title"    : "[10/23/08] Meeting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/10/21/10-23-08-meeting/",
+      "date"     : "10/21/2008"
+    } ,
+  
+    {
+      "title"    : "Critical Analysis of Respondus LockDown Web Browser",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/10/17/critical-analysis-of-respondus-lockdown-web-browser/",
+      "date"     : "10/17/2008"
+    } ,
+  
+    {
+      "title"    : "Source Control Management",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/10/15/source-control-management/",
+      "date"     : "10/15/2008"
+    } ,
+  
+    {
+      "title"    : "[10/2/08] Introduction to Linux",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/10/01/10-2-08-introduction-to-linux/",
+      "date"     : "10/01/2008"
+    } ,
+  
+    {
+      "title"    : "[10/11/08] Ohio Linux Fest",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/09/15/10-11-08-ohio-linux-fest/",
+      "date"     : "09/15/2008"
+    } ,
+  
+    {
+      "title"    : "[9/25/08] Welcome Week Introductions",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/09/09/9-25-08-welcome-week-introductions/",
+      "date"     : "09/09/2008"
+    } ,
+  
+    {
+      "title"    : "[10/9/08] Net Neutrality",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/08/21/10-9-08-net-neutrality/",
+      "date"     : "08/21/2008"
+    } ,
+  
+    {
+      "title"    : "osuwireless in Ubuntu",
+      "category" : "",
+      "tags"     : "tutorials",
+      "url"      : "/open-source-club-website/tutorials/2008/07/29/osuwireless-in-ubuntu/",
+      "date"     : "07/29/2008"
+    } ,
+  
+    {
+      "title"    : "Website problems",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/06/07/website-problems/",
+      "date"     : "06/07/2008"
+    } ,
+  
+    {
+      "title"    : "Code Version Managment",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/04/05/code-version-managment/",
+      "date"     : "04/05/2008"
+    } ,
+  
+    {
+      "title"    : "Spring 2008 - First Meeting",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/03/27/spring-2008-first-meeting/",
+      "date"     : "03/27/2008"
+    } ,
+  
+    {
+      "title"    : "Hacking the Wiimote",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/03/03/hacking-the-wiimote/",
+      "date"     : "03/03/2008"
+    } ,
+  
+    {
+      "title"    : "Silverstripe Meeting Tonight",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/02/28/silverstripe-meeting-tonight/",
+      "date"     : "02/28/2008"
+    } ,
+  
+    {
+      "title"    : "Forums are back online!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/01/24/forums-are-back-online/",
+      "date"     : "01/24/2008"
+    } ,
+  
+    {
+      "title"    : "Student Involvement Fair 2006 Photos",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2008/01/19/student-involvement-fair-2006-photos/",
+      "date"     : "01/19/2008"
+    } ,
+  
+    {
+      "title"    : "Google Android",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/11/16/google-android/",
+      "date"     : "11/16/2007"
+    } ,
+  
+    {
+      "title"    : "To Watch Queue at Meetings",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/10/28/to-watch-queue-at-meetings/",
+      "date"     : "10/28/2007"
+    } ,
+  
+    {
+      "title"    : "Friends of OSUOSS",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/09/17/friends-of-osuoss/",
+      "date"     : "09/17/2007"
+    } ,
+  
+    {
+      "title"    : "Open Source Elections",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/05/16/open-source-elections/",
+      "date"     : "05/16/2007"
+    } ,
+  
+    {
+      "title"    : "Crashing Windows Vista Launch Party",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/04/17/crashing-windows-vista-launch-party/",
+      "date"     : "04/17/2007"
+    } ,
+  
+    {
+      "title"    : "Meetings: Winter 2007",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/01/25/meetings-winter-2007/",
+      "date"     : "01/25/2007"
+    } ,
+  
+    {
+      "title"    : "Mailing Lists",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/01/25/mailing-lists/",
+      "date"     : "01/25/2007"
+    } ,
+  
+    {
+      "title"    : "Up and Blogging with Wordpress in 5 Minutes",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2007/01/08/up-and-blogging-with-wordpress-in-5-minutes/",
+      "date"     : "01/08/2007"
+    } ,
+  
+    {
+      "title"    : "Virtualization Session",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/11/02/virtualization-session/",
+      "date"     : "11/02/2006"
+    } ,
+  
+    {
+      "title"    : "The Internet is Burning...",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/10/25/the-internet-is-burning/",
+      "date"     : "10/25/2006"
+    } ,
+  
+    {
+      "title"    : "Net Neutrality Debate : 5 Oct 2006",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/10/16/net-neutrality-debate-5-oct-2006/",
+      "date"     : "10/16/2006"
+    } ,
+  
+    {
+      "title"    : "PulseAudio with Paul Betts",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/26/pulseaudio-with-paul-betts/",
+      "date"     : "09/26/2006"
+    } ,
+  
+    {
+      "title"    : "Welcome Back!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/21/welcome-back/",
+      "date"     : "09/21/2006"
+    } ,
+  
+    {
+      "title"    : "Welcome Back with Alex! / Ideas for Ohio LinuxFest",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/21/welcome-back-with-alex-ideas-for-ohio-linuxfest/",
+      "date"     : "09/21/2006"
+    } ,
+  
+    {
+      "title"    : "Ohio LinuxFest 2006",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/21/ohio-linuxfest-2006/",
+      "date"     : "09/21/2006"
+    } ,
+  
+    {
+      "title"    : "New Drupal-based website launched",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/21/new-drupal-based-website-launched/",
+      "date"     : "09/21/2006"
+    } ,
+  
+    {
+      "title"    : "Avast, me hearties!",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/21/avast-me-hearties/",
+      "date"     : "09/21/2006"
+    } ,
+  
+    {
+      "title"    : "Updated: Student Involvement Fair/Ohio LinuxFest pamphlet",
+      "category" : "",
+      "tags"     : "announcements",
+      "url"      : "/open-source-club-website/announcements/2006/09/10/updated-student-involvement-fair-ohio-linuxfest-pamphlet/",
+      "date"     : "09/10/2006"
+    } 
+  
+]
